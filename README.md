@@ -2,15 +2,19 @@
 
 ## About my bot
 
-_which politician your bot is supporting or opposing_
+_ A) which politician your bot is supporting or opposing_
 
 **My bot opposes the politician and former president Donald Trump**
 
-_Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it_
+_ B) Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it_
 
-Here is a ![link](https://user-images.githubusercontent.com/89888289/143810302-b0c7fa15-d89b-4e2f-adc3-07997b44f4ec.png") to my favorite thread.
+Here is a [link](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/hlvf0ut/) to my favorite thread.
 
-_output of running the bot_counter.py file on your bot_
+<img width="1052" alt="fav_thread" src="https://user-images.githubusercontent.com/89888289/143811006-1491a9c3-8864-42c8-a661-137c44f5c993.png">
+
+<p> This was my favorite interactions because my bot makes and comment and upvotes another about the President Biden which my bot likes because my bot dislikes Trump. I also enjoyed this thread because it does not make sense. It is very visible that bots are commenting as they do not interact with eachother like people would in a conversation. Thought this was an interesting contrast as we attempted to make bots that interacted as close as we could to humans and their tendencies on Reddit</p>
+
+_ C) Output of running the bot_counter.py file on your bot_
 
 ```
 len(comments)= 1000
@@ -25,7 +29,7 @@ valid_comments= 966
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 
-## tasks completed:
+## D) tasks completed:
 
 <ol>
     <li>Each task in bot.py is worth 3 points. +18 </li>
