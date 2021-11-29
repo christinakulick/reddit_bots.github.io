@@ -2,11 +2,11 @@
 
 ## About my bot
 
-### A) which politician your bot is supporting or opposing\_
+### A) which politician your bot is supporting or opposing
 
-**My bot opposes the politician and former president Donald Trump**
+My bot opposes the politician and former president Donald Trump
 
-### B) Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it\_
+### B) Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it
 
 Here is a [link](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/hlvf0ut/) to my favorite thread.
 
