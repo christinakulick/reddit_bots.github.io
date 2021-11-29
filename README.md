@@ -8,7 +8,7 @@ _which politician your bot is supporting or opposing_
 
 _Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it_
 
-Here is a ![link](<img width="1052" alt="fav_thread" src="https://user-images.githubusercontent.com/89888289/143810302-b0c7fa15-d89b-4e2f-adc3-07997b44f4ec.png">) to my favorite thread.
+Here is a ![link](https://user-images.githubusercontent.com/89888289/143810302-b0c7fa15-d89b-4e2f-adc3-07997b44f4ec.png") to my favorite thread.
 
 _output of running the bot_counter.py file on your bot_
 
