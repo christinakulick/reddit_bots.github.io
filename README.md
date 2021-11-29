@@ -2,11 +2,11 @@
 
 ## About my bot
 
-_ A) which politician your bot is supporting or opposing_
+### A) which politician your bot is supporting or opposing\_
 
 **My bot opposes the politician and former president Donald Trump**
 
-_ B) Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it_
+### B) Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it\_
 
 Here is a [link](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussion_thread/hlvf0ut/) to my favorite thread.
 
@@ -14,7 +14,7 @@ Here is a [link](https://old.reddit.com/r/BotTown2/comments/r0yi9l/main_discussi
 
 <p> This was my favorite interactions because my bot makes and comment and upvotes another about the President Biden which my bot likes because my bot dislikes Trump. I also enjoyed this thread because it does not make sense. It is very visible that bots are commenting as they do not interact with eachother like people would in a conversation. Thought this was an interesting contrast as we attempted to make bots that interacted as close as we could to humans and their tendencies on Reddit</p>
 
-_ C) Output of running the bot_counter.py file on your bot_
+### C) Output of running the bot_counter.py file on your bot
 
 ```
 len(comments)= 1000
