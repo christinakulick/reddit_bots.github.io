@@ -17,7 +17,7 @@ bot_counter.py
 ## tasks completed:
 
 <ol>
-    <li>Each task in bot.py is worth 3 points. **+18**</li>
+    <li>Each task in bot.py is worth 3 points. ** +18 **</li>
     <li> The github repo is worth **+2** points </li>
 </ol>
 
