@@ -29,6 +29,8 @@ valid_comments= 966
 NOTE: the number valid_comments is what will be used to determine your extra credit
 ```
 
+_note: even after running for a long time after my valid comments would not increase and I am not sure why this happened after having 1000 comments_
+
 ## D) tasks completed:
 
 <ol>
